@@ -15,10 +15,10 @@
 ---
 
 ## 📂 Featured Projects
-- 🔹 [**Project 1 - B2B Platform**](https://ekkbaz.com/)  
+- 🔹 [**Project 1 - Ekkbaz**](https://ekkbaz.com/)  
    B2B platform, fully business solution, business accounting solution with Ai.  
 
-- 🔹 [**Project 2 - Cou**](https://ipractus.com/)  
+- 🔹 [**Project 2 - Ipractus**](https://ipractus.com/)  
    Couch and player management with real-time chat, audio, video call, and live streaming in React.
 
 ---
